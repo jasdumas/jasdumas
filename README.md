@@ -1,4 +1,8 @@
-### 👋 Hi, I'm Jasmine
+## 👋 Hi, I'm Jasmine
+
+#### Principal Consultant & Founder of [Daly Analytics](https://dalyanalytics.com/)
+
+
 
 <!--
 **jasdumas/jasdumas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
